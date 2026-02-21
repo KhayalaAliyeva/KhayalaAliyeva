@@ -1,13 +1,8 @@
 # Hi, I'm Khayala Aliyeva 👋
-
-**`Java Backend Developer @ ProData LLc`**  
-💻 Microservices • Spring Boot • PostgreSQL • RabbitMQ
-
 ---
 
 ## 🔹 About Me
 
-- 🧰 Stack: Java, Spring Boot
 - 🌍 Based in **Azerbaijan**
 - 📫 Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-KhayalaAliyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khayala-aliyeva-106857233)
 
