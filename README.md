@@ -2,9 +2,9 @@
 ---
 
 ## 🔹 About Me
-
+- ✅ I'm Java BackEnd Developer 💻, and Learner 🌜.
 - 🌍 Based in **Azerbaijan**
-- 📫 Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-KhayalaAliyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khayala-aliyeva-106857233)
+- 📫 Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-KhayalaAliyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khayala-aliyeva-106857233) [![Gmail Badge](https://img.shields.io/badge/-xylaliyeva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:xylaliyeva@gmail.com)
 
 ---
 
